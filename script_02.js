@@ -1,4 +1,7 @@
-// Recuperer les gestions d'événement
+// Créer un element html et ajouter du contenu la dessus
+
+
+
 const ajouterBtn = document.getElementById("ajouterBtn");
 const maListe = document.getElementById("maListe");
 

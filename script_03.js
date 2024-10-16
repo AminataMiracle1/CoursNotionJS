@@ -1,3 +1,4 @@
+// Utiliser random dans une liste pour choisir des couleurs
 const changerCouleur = document.getElementById("changerCouleur");
 const listCouleur = ["white", "blue", "red", "green", "yellow", "pink"];
 const zone = document.getElementById("zone");

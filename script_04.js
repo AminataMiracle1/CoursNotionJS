@@ -1,3 +1,5 @@
+// Utiliser Css pour fair disparetre un element et L'afficher
+
 const toggleBtn = document.getElementById("toggleBtn");
 const texte = document.getElementById("texte");
 
